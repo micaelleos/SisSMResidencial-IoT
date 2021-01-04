@@ -16,3 +16,5 @@ O que o programa precisa fazer:
 -	Verificação se acesso foi feito no período permitido
 -	Soar alarme com buzzer e luzes da casa piscando
 -	Caso alarme acionado, ter a possibilidade de entrada de senha pelos botões + LCD, computador e celular.
+
+![image](https://user-images.githubusercontent.com/61849864/103585541-ff12aa00-4ec1-11eb-8538-e86c4dbc4930.png)
