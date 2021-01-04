@@ -4,6 +4,7 @@ Sistemas baseados em IOT tornaram-se ferramentas poderosas no cotidiano humano n
 
 ## Arquitetura de Comunicação
 
+![image](https://user-images.githubusercontent.com/61849864/103585448-d1c5fc00-4ec1-11eb-84c3-26b5fdb6c43a.png)
  
 ## Funcionamento
 
